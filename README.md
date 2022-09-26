@@ -1,4 +1,4 @@
-# Frontend Assessment
+# Angular Frontend Assessment
 
 Build and deploy a very simple frontend app for paginated data, that does the following
 
@@ -14,6 +14,6 @@ Build and deploy a very simple frontend app for paginated data, that does the fo
 
 #### Note
 
-1.  You are to build this project with [Ant Design](https://ng.ant.design/) for handing the styling or UI. 
+1.  You are to build this project with Angular and [Ant Design](https://ng.ant.design/) for handing the styling or UI. 
 2.  This project duration is 1(One) Hour.
 
