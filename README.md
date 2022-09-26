@@ -10,7 +10,7 @@ Build and deploy a very simple frontend app for paginated data, that does the fo
 
 4.  Implement edit and delete buttons for each row. Use a modal for editing of (name, email and DOB)
 
-5.  Add a search input at the top of the table for server searching
+5.  BONUS. Add a search input at the top of the table for server searching (optional)
 
 #### Note
 
